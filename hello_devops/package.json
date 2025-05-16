@@ -1,0 +1,1 @@
+{"name":"hello-devops","version":"1.0.0","scripts":{"test":"node test.js"},"main":"app.js","keywords":[],"author":"","license":"ISC","description":""}
